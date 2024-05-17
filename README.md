@@ -1,4 +1,4 @@
-# E-comerce_analysis
+# E-commerce_analysis
 RFM-анализ продаж online магазина
 
 ## Цель
