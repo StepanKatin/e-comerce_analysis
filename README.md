@@ -9,7 +9,9 @@ pandas, seaborn, matplotlib, numpy
 
 # Краткое описание данных
 olist_customers_datase.csv — таблица с уникальными идентификаторами пользователей
+
 olist_order_items_dataset.csv —  товарные позиции, входящие в заказы
+
 olist_orders_dataset.csv —  таблица заказов
 
 # Результаты
